@@ -11,6 +11,7 @@ layout: default
 ### Abel Tesfaye (atesfaye)
 # URL
 [http://www.tesfayeabel.com/15300Project/](http://www.tesfayeabel.com/15300Project/)
+
 Here is a link to my [project proposal](./proposal.pdf).
 # SUMMARY
 # BACKGROUND
